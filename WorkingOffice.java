@@ -1,4 +1,3 @@
-package Task3;
 import java.util.Random;
 import CLASS3.list3_src.UnboundedQueue;
 public class Task3{
